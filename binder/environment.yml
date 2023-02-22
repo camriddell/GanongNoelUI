@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=2
+  - pathlib2
+  - xlsxwriter
+  - numpy
+  - scipy
+  - pandas
+  - rpy2
+  - plotnine
