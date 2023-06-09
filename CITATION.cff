@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: "Ganong"
+    given-names: "Peter"
+  - family-names: "Noel"
+    given-names: "Pascal"
+title: "Consumer Spending during Unemployment: Positive and Normative Implications"
+abstract: Analysis of Models for "Consumer Spending During Unemployment- Positive and Normative Implications"
+
+references:
+  - type: article
+    authors:
+      - family-names: "Ganong"
+        given-names: "Peter"
+      - family-names: "Noel"
+        given-names: "Pascal"
+    title: "Consumer Spending During Unemployment: Positive and Normative Implications"
+    doi: "10.1257/aer.20170537"
+    date-released: 2019-07-01
+    publisher:
+        name: "The American Economic Review"
+repository-code: "https://github.com/econ-ark/GanongNoelUI"
+
